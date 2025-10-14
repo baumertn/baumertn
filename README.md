@@ -1,5 +1,8 @@
 # Hey!
 
-I'm working as a full-stack/DevOps engineer at [SD Software-Design GmbH](https://github.com/SD-Software-Design-GmbH). Most of my coding time there is spent in Python and JavaScript.
+I'm working as a senior software engineer at [SD Software-Design GmbH](https://github.com/SD-Software-Design-GmbH). Currently, my focus there is on platform development and improving developer experiences of my coworkers.
 
-In my spare time, I'm currently tinkering with Go.
+Professionally I program in Python, JavaScript/TypeScript, and Go.
+
+In my spare time, I'm tinkering with [Elixir](https://elixir-lang.org/) for web stuff and [Odin](https://odin-lang.org/) for systems programming and getting into simulation.
+
